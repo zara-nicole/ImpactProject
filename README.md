@@ -25,6 +25,6 @@ $color5: rgba(248, 247, 253, 1);
 #FF99C9 Pale Magenta-Pink
 #F8F7FD Ghost White
 
-- ![#084887](https://placehold.it/15/f03c15/000000?text=+) `#084887`
+- ![#084887](https://placehold.it/15/084887/000000?text=+) `#084887`
 - ![#c5f015](https://placehold.it/15/c5f015/000000?text=+) `#c5f015`
 - ![#1589F0](https://placehold.it/15/1589F0/000000?text=+) `#1589F0`
