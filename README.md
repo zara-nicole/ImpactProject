@@ -1,6 +1,7 @@
 # ImpactProject
 Educational platform for 1st to 3rd graders on emotional intelligence
 
+Way To Grow
 
 /* Coolors Exported Palette - coolors.co/084887-f69f34-81cdcd-ff99c9-f8f7fd */
 
