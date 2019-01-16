@@ -25,7 +25,7 @@ $color5: rgba(248, 247, 253, 1);
 - ![#FF99C9](https://placehold.it/15/FF99C9/000000?text=+) `#FF99C9`
 - ![#F8F7FD](https://placehold.it/15/F8F7FD/000000?text=+) `#F8F7FD`
 
-
+Color Palette for Presentation
 - ![#BA3E60](https://placehold.it/15/BA3E60/000000?text=+) `#BA3E60`
 - ![#FFFFFF](https://placehold.it/15/FFFFFF/000000?text=+) `#FFFFFF`
 - ![#E0FCED](https://placehold.it/15/E0FCED/000000?text=+) `#E0FCED`
