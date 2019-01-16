@@ -1,0 +1,10 @@
+body{
+  background-color: black !important;
+}
+#book{
+	width: 100%;
+	height: 600px;
+}
+#book .page{
+	background-color:white;
+}
