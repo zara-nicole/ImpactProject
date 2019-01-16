@@ -12,10 +12,8 @@ body{
 button.btn.btn-link{
   text-align: left;
   color: #212529;
-  /* text-decoration: none; */
 }
 
 button.btn.btn-link:hover {
   color: #6959cd;
-  /* text-decoration: none; */
 }
